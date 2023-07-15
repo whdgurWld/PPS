@@ -1,11 +1,4 @@
-class A023 {
-    // public static void main(String args[]){
-    //     int nums = 38;
-    //     Solution s = new Solution();
-
-    //     int result = s.addDigits(nums);
-    //     System.out.println("Result: " + result);
-    // }
+class Solution {
 
     public int addDigits(int num) {
         String tmp = String.valueOf(num);

@@ -1,11 +1,4 @@
-class A024 {
-    // public static void main(String args[]){
-    //     int nums[] = {5,5,10,10,20};
-    //     Solution s = new Solution();
-
-    //     boolean result = s.lemonadeChange(nums);
-    //     System.out.println("Result: " + result);
-    // }
+class Solution {
 
     public boolean lemonadeChange(int[] bills) {
         boolean result = true;

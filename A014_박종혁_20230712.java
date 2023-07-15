@@ -1,14 +1,7 @@
 import java.util.List;
 import java.util.ArrayList;
 
-class A014 {
-    // public static void main(String args[]){
-    //     int[] nums = {0};
-    //     Solution s = new Solution();
-
-    //     List<String> result = s.summaryRanges(nums);
-    //     System.out.println("Result: " + result);
-    // }
+class Solution {
 
     public List<String> summaryRanges(int[] nums) {
         

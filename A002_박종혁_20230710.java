@@ -1,17 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-class A002 {
-    // public static void main(String args[]){
-
-    //     int num = 5;
-    //     Solution s = new Solution();
-
-    //     List<List<Integer>> result = s.generate(num);
-        
-    //     System.out.println(result.get(4).get(2));
-        
-    // }
+class Solution {
 
     public List<List<Integer>> generate(int numRows) {
         List<List<Integer>> h = new ArrayList<List<Integer>>();

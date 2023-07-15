@@ -1,11 +1,4 @@
-class A009 {
-    // public static void main(String args[]){
-    //     String str = "1a23345";
-    //     Solution s = new Solution();
-
-    //     boolean result= s.solution(str);
-    //     System.out.println(result);
-    // }
+class Solution {
 
     public boolean solution(String s) {
         int c, n;
@@ -21,5 +14,6 @@ class A009 {
         
         return c == 0 && n > 0;
     }
+    
 }
 

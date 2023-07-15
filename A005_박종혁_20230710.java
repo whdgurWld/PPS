@@ -1,15 +1,5 @@
-class A005 {
+class Solution {
 
-
-    // public static void main(String args[]){
-    //     String skill = "CBD";
-    //     String[] skill_tress = {"BACDE", "CBADF", "AECB", "BDA"};
-
-    //     Solution s = new Solution();
-
-    //     int result = s.solution(skill, skill_tress);
-    //     System.out.println(result);
-    // }
     public int solution(String skill, String[] skill_trees) {
         int answer = 0;
 

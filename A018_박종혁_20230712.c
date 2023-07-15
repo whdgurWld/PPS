@@ -61,4 +61,5 @@ int findmin(int array[], int size){
   }
 
   return index;
+  
 }

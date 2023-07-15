@@ -1,14 +1,6 @@
 import java.util.Stack;
 
-class A027 {
-    // public static void main(String args[]){
-    //     String num = "4177252841";
-    //     int k = 4;
-    //     Solution s = new Solution();
-
-    //     String result = s.solution(num, k);
-    //     System.out.println("Result: " + result);
-    // }
+class Solution {
 
     public String solution(String number, int k) {
         int size = number.length() - k;

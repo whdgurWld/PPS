@@ -1,11 +1,4 @@
-class A026 {
-    // public static void main(String args[]){
-    //     int num = 12;
-    //     Solution s = new Solution();
-
-    //     boolean result = s.solution(num);
-    //     System.out.println("Result: " + result);
-    // }
+class Solution {
 
     public boolean solution(int x) {
         boolean answer = false;

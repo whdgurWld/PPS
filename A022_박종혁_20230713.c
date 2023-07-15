@@ -23,4 +23,5 @@ int main(){
   else printf("Y M %d", sum[0]);
   
   return 0;
+  
 }

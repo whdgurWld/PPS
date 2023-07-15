@@ -27,5 +27,6 @@ vector<int> solution(vector<int> arr, int divisor) {
     }
 
     return answer;
+    
 }
 
